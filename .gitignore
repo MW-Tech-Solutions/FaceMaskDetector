@@ -1,0 +1,53 @@
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.csv
+*.DS_Store
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# TensorFlow / Keras models
+*.h5
+*.caffemodel
+*.prototxt
+
+# Image/Video Cache
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+/logs/
+/tmp/
+/temp/
+*.lock
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# User-specific config or data
+user_data/
+output/
+results/
